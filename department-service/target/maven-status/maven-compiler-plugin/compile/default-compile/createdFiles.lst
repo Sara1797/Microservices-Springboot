@@ -1,0 +1,5 @@
+com\sarishti\department\repository\DepartmentRepository.class
+com\sarishti\department\service\DepartmentService.class
+com\sarishti\department\controller\DepartmentController.class
+com\sarishti\department\DepartmentServiceApplication.class
+com\sarishti\department\entity\Department.class
